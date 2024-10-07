@@ -1,0 +1,252 @@
+{
+  "users": [
+    {
+      "id": "503b",
+      "firstName": "lylia",
+      "lastName": "benbelgacem",
+      "email": "benbelgacemlylia2@gmail.com",
+      "password": "password",
+      "phoneNumber": "+213541301892",
+      "gender": "female",
+      "usedBefore": true,
+      "department": "softwareEngineering"
+    }
+  ],
+  "students": [
+    {
+      "id": "1",
+      "firstName": "Alice",
+      "lastName": "Smith",
+      "dob": "2000-04-13",
+      "gender": "female",
+      "email": "alice.smith@example.com",
+      "phone": "+11234567890",
+      "studyProgram": "softwareEngineering"
+    },
+    {
+      "id": "3",
+      "firstName": "Catherine",
+      "lastName": "Brown",
+      "dob": "2001-11-30",
+      "gender": "female",
+      "email": "catherine.brown@example.com",
+      "phone": "+11234567892",
+      "studyProgram": "softwareEngineering"
+    },
+    {
+      "id": "4",
+      "firstName": "David",
+      "lastName": "Williams",
+      "dob": "1998-03-17",
+      "gender": "male",
+      "email": "david.williams@example.com",
+      "phone": "+11234567893",
+      "studyProgram": "preparatoryCycle"
+    },
+    {
+      "id": "5",
+      "firstName": "Emily",
+      "lastName": "Jones",
+      "dob": "2002-06-15",
+      "gender": "female",
+      "email": "emily.jones@example.com",
+      "phone": "+11234567894",
+      "studyProgram": "softwareEngineering"
+    },
+    {
+      "id": "6",
+      "firstName": "Frank",
+      "lastName": "Garcia",
+      "dob": "2000-03-28",
+      "gender": "male",
+      "email": "frank.garcia@example.com",
+      "phone": "+11234567895",
+      "studyProgram": "mechatronics"
+    },
+    {
+      "id": "7",
+      "firstName": "Grace",
+      "lastName": "Martinez",
+      "dob": "1999-11-09",
+      "gender": "female",
+      "email": "grace.martinez@example.com",
+      "phone": "+11234567896",
+      "studyProgram": "iot"
+    },
+    {
+      "id": "8",
+      "firstName": "Henry",
+      "lastName": "Davis",
+      "dob": "1997-04-05",
+      "gender": "male",
+      "email": "henry.davis@example.com",
+      "phone": "+11234567897",
+      "studyProgram": "preparatoryCycle"
+    },
+    {
+      "id": "9",
+      "firstName": "Isabella",
+      "lastName": "Rodriguez",
+      "dob": "2003-09-21",
+      "gender": "female",
+      "email": "isabella.rodriguez@example.com",
+      "phone": "+11234567898",
+      "studyProgram": "softwareEngineering"
+    },
+    {
+      "id": "10",
+      "firstName": "Jack",
+      "lastName": "Wilson",
+      "dob": "1998-07-14",
+      "gender": "male",
+      "email": "jack.wilson@example.com",
+      "phone": "+11234567899",
+      "studyProgram": "mechatronics"
+    },
+    {
+      "id": "11",
+      "firstName": "Katherine",
+      "lastName": "Anderson",
+      "dob": "2001-01-10",
+      "gender": "female",
+      "email": "katherine.anderson@example.com",
+      "phone": "+11234567900",
+      "studyProgram": "iot"
+    },
+    {
+      "id": "12",
+      "firstName": "Leon",
+      "lastName": "Thomas",
+      "dob": "1996-10-28",
+      "gender": "male",
+      "email": "leon.thomas@example.com",
+      "phone": "+11234567901",
+      "studyProgram": "preparatoryCycle"
+    },
+    {
+      "id": "13",
+      "firstName": "Maria",
+      "lastName": "Taylor",
+      "dob": "2002-03-03",
+      "gender": "female",
+      "email": "maria.taylor@example.com",
+      "phone": "+11234567902",
+      "studyProgram": "iot"
+    },
+    {
+      "id": "14",
+      "firstName": "Nathan",
+      "lastName": "Moore",
+      "dob": "1997-11-11",
+      "gender": "male",
+      "email": "nathan.moore@example.com",
+      "phone": "+11234567903",
+      "studyProgram": "mechatronics"
+    },
+    {
+      "id": "2e48",
+      "firstName": "yacine ",
+      "lastName": "Benbelgacem",
+      "dob": "2000-10-06",
+      "gender": "male",
+      "email": "test@example.com",
+      "phone": "+213",
+      "studyProgram": "iot"
+    },
+    {
+      "id": "3887",
+      "firstName": "Frank",
+      "lastName": "Martinez",
+      "dob": "2010-02-25",
+      "gender": "male",
+      "email": "frank@gmail.com",
+      "phone": "+993",
+      "studyProgram": "mechatronics"
+    },
+    {
+      "id": "84ae",
+      "firstName": "test",
+      "lastName": "Garcia",
+      "dob": "2003-03-03",
+      "gender": "female",
+      "email": "test@example.com",
+      "phone": "+16778907698",
+      "studyProgram": "softwareEngineering"
+    },
+    {
+      "id": "7bff",
+      "firstName": "Benbelgacem",
+      "lastName": "Smith",
+      "dob": "2009-01-01",
+      "gender": "male",
+      "email": "test@example.com",
+      "phone": "+256",
+      "studyProgram": "mechatronics"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "1",
+      "name": "Alice Johnson",
+      "qualification": "MSc in Computer science",
+      "subject": "Programming",
+      "email": "alice.johnson@example.com",
+      "phone": "+213123456789",
+      "linkedin": "https://www.linkedin.com/in/alicejohnson"
+    },
+    {
+      "id": "2",
+      "name": "Mohamed Salah",
+      "qualification": "PhD in Robotics",
+      "subject": "Robotics",
+      "email": "mohamed.salah@example.com",
+      "phone": "+213987654321",
+      "linkedin": "https://www.linkedin.com/in/mohamedsalah"
+    },
+    {
+      "id": "3",
+      "name": "Sarah Lee",
+      "qualification": "MA in Education",
+      "subject": "Networking",
+      "email": "sarah.lee@example.com",
+      "phone": "+213112233445",
+      "linkedin": "https://www.linkedin.com/in/sarahlee"
+    },
+    {
+      "id": "4",
+      "name": "Karim Ben Ali",
+      "qualification": "BSc in Business",
+      "subject": "Business",
+      "email": "karim.benali@example.com",
+      "phone": "+213998877665",
+      "linkedin": "https://www.linkedin.com/in/karimbenali"
+    },
+    {
+      "id": "5",
+      "name": "Leila Ahmed",
+      "qualification": "MEd in Special Education",
+      "subject": "Special Education",
+      "email": "leila.ahmed@example.com",
+      "phone": "+213554433221",
+      "linkedin": "https://www.linkedin.com/in/leilaahmed"
+    },
+    {
+      "id": "c595",
+      "name": "testing teacher",
+      "qualification": "phd in electronics",
+      "subject": "electronics",
+      "email": "test@example.com",
+      "phone": "+213",
+      "linkedin": "https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit"
+    },
+    {
+      "id": "2779",
+      "name": "Alice Johnson",
+      "qualification": "MSc in Computer science",
+      "subject": "business",
+      "email": "test@example.com",
+      "phone": "+213",
+      "linkedin": "https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit"
+    }
+  ]
+}
